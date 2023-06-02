@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.holder{
+	width:100%;
+	height:200px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+	
+}
+.indigo{
+	background-color:indigo !important;
+}
+.fluid{
+	width:100px;
+	height:100px;
+	background-color:greenyellow;
+}
+
